@@ -1,4 +1,4 @@
-# PWA-Coffee-app
+# PWA-Tajine-app
 
 Progressive Web App  
 Service Worker  

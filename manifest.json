@@ -1,6 +1,6 @@
 {
-    "name": "Atay",
-    "short_name": "Atay",
+    "name": "Popular Tajine",
+    "short_name": "Tajine",
     "start_url": "index.html",
     "display": "standalone",
     "background_color": "#fdfdfd",
@@ -8,12 +8,32 @@
     "orientation": "portrait-primary",
     "icons": [
       {
-        "src": "/images/Atay icons/PWA-Atay-logo-166x64.png",
-        "type": "image/png", "sizes": "166x64"
+        "src": "/images/Tajine-icons/tajine-16x16.png",
+        "type": "image/png", "sizes": "16x16"
       },
       {
-        "src": "/images/Atay icons/PWA-Atay-logo-331x127.png",
-        "type": "image/png", "sizes": "331x127"
+        "src": "/images/Tajine-icons/tajine-24x24.png",
+        "type": "image/png", "sizes": "24x24"
+      },
+      {
+        "src": "/images/Tajine-icons/tajine-32x32.png",
+        "type": "image/png", "sizes": "32x32"
+      },
+      {
+        "src": "/images/Tajine-icons/tajine-64x64.png",
+        "type": "image/png", "sizes": "64x64"
+      },
+      {
+        "src": "/images/Tajine-icons/tajine-128x128.png",
+        "type": "image/png", "sizes": "128x128"
+      },
+      {
+        "src": "/images/Tajine-icons/tajine-256x256.png",
+        "type": "image/png", "sizes": "256x256"
+      },
+      {
+        "src": "/images/Tajine-icons/tajine-512x512.png",
+        "type": "image/png", "sizes": "512x512"
       }
     ]
   }
